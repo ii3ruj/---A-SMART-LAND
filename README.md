@@ -1,2 +1,2 @@
-# ---A-SMART-LAND
+# A-SMART-LAND
 Smart agriculture project for farmers in Aseer
